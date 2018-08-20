@@ -3,3 +3,7 @@
 ################################################################################
 
 /PdfFooterAdd/obj/Debug
+/.vs
+/packages
+/PdfFooterAdd/bin/Debug
+/PdfFooterAdd/Properties
